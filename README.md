@@ -1,1 +1,2 @@
-# NeuroInsight-An-ai-model-that-can-detect-brain-tumour-and-precisely-localize-brain-tumour-
+The objective of the project is to develop an advanced artificial intelligence model capable of accurately detecting and precisely localizing the presence of brain tumours. Leveraging machine learning algorithms and medical imaging data, the goal is to create a sophisticated diagnostic tool, enhancing early detection capabilities and providing valuable insights for healthcare professionals.
+Download the data set from here https://drive.google.com/drive/folders/1uM3YB2SIOLbChBQ9mf1nLuC3z_guaqT1 And make sure to change the file path if applicable in ipynb file
